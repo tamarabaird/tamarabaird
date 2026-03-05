@@ -5,7 +5,7 @@ I'm the **Founder of Baird Forge** — providing technical education for high-st
 ## 🏢 Baird Forge
 *Technical education for high-stakes professions*
 
-Building resources and design solutions at the intersection of cybersecurity, education, healthcare, and human-centered technology.
+Building resources and design solutions at the intersection of Human-Centered Technology, Sound Reinforcement, Security-Conscious Architecture, and Simulation-Based Training.
 
 🌐 **Portfolio:** [tamarabaird.github.io](https://tamarabaird.github.io)
 
@@ -38,16 +38,16 @@ A healthcare IT support system design that bridges the communication gap between
 Risk analysis · Healthcare security · Data protection · HIPAA compliance
 
 **Healthcare Domain**  
-Simulation · Nursing Informatics· EHR systems · IT-Clinical communication · Clinical workflows
+Simulation · Nursing Informatics · EHR systems · IT-Clinical communication · Clinical workflows
 
 **Research & Analysis**  
 Qualitative methods · User interviews · Evidence-based design · Literature review
 
 **Technical Education**  
-Curriculum development for high-stakes professions · Evidence-based instructional design User research  Prototying  Design systems  Information architecture  Accessibility
+Curriculum development for high-stakes professions · Evidence-based instructional design
 
 **UX/UI Design**  
-User research  Prototying  Design systems  Information architecture  Accessibility
+User research · Prototying · Design systems · Information architecture · Accessibility
 
 ---
 
