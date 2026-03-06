@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm the **Founder of Baird Forge** — providing technical education for high-stakes professions. 
+**Founder of Baird Forge** — Here's my work. 
 ## 🏢 Baird Forge
 *Technical education for high-stakes professions*
 
-I build human-centered products, tools, and learning experiences that make complex technology safe, simple, and accessible for everyone.
+We build human-centered products, tools, and learning experiences that make complex technology safe, simple, and accessible for everyone.
 
 🌐 **Portfolio:** [tamarabaird.github.io](https://tamarabaird.github.io)
 
