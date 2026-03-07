@@ -1,19 +1,14 @@
 # Hi there 👋
 
-**Founder of Baird Forge** — Here's my work. 
-## 🏢 Baird Forge
-*Technical education for high-stakes professions*
+##About this Github
+*This Github contains experiements, prototypes, and tools related to technical education and human centered technology. I use it to learn in public, document ideas, and share approaches that may help others working with complext systems. Some projects will evolve into fully supported tools or products released through Baird Forge Inc.
 
-We build human-centered products, tools, and learning experiences that make complex technology safe, simple, and accessible for everyone.
+##Mission
+I build human-centered tools and learning experiences that make complex technology safe, understandable, and usable in high-stakes environments. My goals is to turn difficult systems into practical tools and knowledge people can rely on. 
 
 🌐 **Portfolio:** [tamarabaird.github.io](https://tamarabaird.github.io)
 
 ---
-
-## 🔬 Current Focus
-- Transforming research into actionable UX/UI design concepts
-- Developing technical education for industry professionals  
-- UX/UI Product development 
 
 ## 🎯 Featured Work
 
@@ -24,47 +19,11 @@ A healthcare IT support system design that bridges the communication gap between
 
 ---
 
-## 🎓 Education & Credentials
-- **M.S. Cybersecurity** — Cybersecurity Operations, Malware Analysis
-- **M.S.N. Nursing Informatics** — Data Protection, EHR Systems
-- **Published Research & Presentations:** [View my complete academic profile on ORCID](https://orcid.org/0000-0002-0423-2162) 📚
-
----
-
-## 🛠️ Expertise
-
-**Cybersecurity & Informatics**  
-Risk analysis · Healthcare security · Data protection · HIPAA compliance
-
-**Healthcare Domain**  
-Simulation · Nursing Informatics · EHR systems · IT-Clinical communication · Clinical workflows
-
-**Research & Analysis**  
-Qualitative methods · User interviews · Evidence-based design · Literature review
-
-**Technical Education**  
-Curriculum development for high-stakes professions · Evidence-based instructional design
-
-**UX/UI Design**  
-User research · Prototying · Design systems · Information architecture · Accessibility
-
----
-
 ## 📊 GitHub Stats
 
 ![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamarabaird&show_icons=true&theme=default&hide_border=true&bg_color=FAFAF8&title_color=0A7EA4&icon_color=0A7EA4&text_color=1A1A1A)
 
----
-
-## 📫 Connect With Me
-
-- 🏢 [Baird Forge](https://github.com/bairdforge-inc) — Technical education for high-stakes professions
-- 🌐 [Portfolio](https://tamarabaird.github.io) — View my work
-- 📚 [ORCID Profile](https://orcid.org/0000-0002-0423-2162) — Publications & conference presentations
-- 💼 Open to collaboration on UX, cybersecurity, healthcare, and technical training projects
+**Founder of Baird Forge** 
+*Technical education for high-stakes professions*
 
 ---
-
-*Bridging the gap between technology, security, and human-centered design in critical professions.*
-
--->
