@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 👤 About
-This Github contains experiements, prototypes, and tools related to technical education and human centered technology. I use it to learn in public, document ideas, and share approaches that may help others working with complex systems. Some projects will evolve into fully supported tools or products released through Baird Forge Inc.
+This Github contains experiments, prototypes, and tools related to technical education and human centered technology. I use it to learn in public, document ideas, and share approaches that may help others working with complex systems. Some projects will evolve into fully supported tools or products released through Baird Forge Inc.
 
 ---
 
