@@ -6,7 +6,7 @@ This Github contains experiements, prototypes, and tools related to technical ed
 ---
 
 ### 🎯 Mission
-I build human-centered tools and learning experiences that make complex technology safe, understandable, and usable in high-stakes environments. My goals is to turn difficult systems into practical tools and knowledge people can rely on. 
+I build human-centered tools and learning experiences that make complex technology safe, understandable, and usable in high-stakes environments. My goals are to turn difficult systems into practical tools and knowledge people can rely on. 
 
 ---
 
